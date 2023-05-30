@@ -8,7 +8,7 @@
 - 🔭 I’m currently a freelancer.
 - 🌱 I’m currently learning More about Backend, Databases, Algorithms & Data Structures.
 - 💬 Ask me about Problem Solving, Web Developing, and any computer science stuff.
-- 📫 How to reach me: Send a message on [Linkedin](https://www.linkedin.com/in/ali-mashally/), and [Twitter](https://twitter.com/ali_mashally)
+- 📫 How to reach me: Send a message on [Linkedin](https://www.linkedin.com/in/ali-mashally/) and [Twitter](https://twitter.com/ali_mashally)
 
 
 ![Ali Mashally's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackaly&show_icons=true&theme=transparent)
