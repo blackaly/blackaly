@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there it's Ali👋 
 
+<img src="https://komarev.com/ghpvc/?username=blackalylabel=Profile%20views&color=A325E2&labelColor=FFFFFF&style=for-the-badge" alt="blackaly" width=20%/>
 <!--
-**blackaly/blackaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**ma7moud3zim/ma7moud3zim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+- 🔭 I’m currently working on My Graduation Project.
+- 🌱 I’m currently learning More Backend, Database indexing, Algorithms & DataStructures.
+- 💬 Ask me about Problem Solving, Web Developing, Android Studio, Java, Kotlin, Firebase, and OOP
+- 📫 How to reach me: Send a message on LinkedIN
+
+
+![Ali Mashally's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackaly&show_icons=true&theme=transparent)
+
+
