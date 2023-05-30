@@ -5,10 +5,10 @@
 **ma7moud3zim/ma7moud3zim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on My Graduation Project.
-- 🌱 I’m currently learning More Backend, Database indexing, Algorithms & DataStructures.
-- 💬 Ask me about Problem Solving, Web Developing, Android Studio, Java, Kotlin, Firebase, and OOP
-- 📫 How to reach me: Send a message on LinkedIN
+- 🔭 I’m currently a freelancer.
+- 🌱 I’m currently learning More about Backend, Databases, Algorithms & Data Structures.
+- 💬 Ask me about Problem Solving, Web Developing, and any computer science stuff.
+- 📫 How to reach me: Send a message on [Linkedin](https://www.linkedin.com/in/ali-mashally/), and [Twitter](https://twitter.com/ali_mashally)
 
 
 ![Ali Mashally's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackaly&show_icons=true&theme=transparent)
