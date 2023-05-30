@@ -1,6 +1,6 @@
 ### Hi there it's Ali👋 
 
-<img src="https://komarev.com/ghpvc/?username=blackalylabel=Profile%20views&color=A325E2&labelColor=FFFFFF&style=for-the-badge" alt="blackaly" width=20%/>
+<img src="https://komarev.com/ghpvc/?username=blackaly&label=Profile%20views&color=A325E2&labelColor=FFFFFF&style=for-the-badge" alt="blackaly" width=20%/>
 <!--
 **ma7moud3zim/ma7moud3zim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
