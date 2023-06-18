@@ -10,8 +10,3 @@
 - 🌱 I love so much computer architectures and operating systems subjects.
 - 💬 Ask me about Problem Solving, Web Developing, and computer science stuff.
 - 📫 How to reach me: Send a message on [Linkedin](https://www.linkedin.com/in/ali-mashally/) and [Twitter](https://twitter.com/ali_mashally)
-
-
-![Ali Mashally's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackaly&show_icons=true&theme=transparent)
-
-
