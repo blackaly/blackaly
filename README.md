@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning More about Backend, Databases, Algorithms & Data Structures.
 - 🌱 I love so much computer architectures and operating systems subjects.
 - 💬 Ask me about Problem Solving, Web Developing, and computer science stuff.
-- 📫 How to reach me: Send a message on [Linkedin](https://www.linkedin.com/in/ali-mashally/) and [Twitter](https://twitter.com/ali_mashally)
+- 📫 How to reach me: Send a message on [Linkedin](https://www.linkedin.com/in/ali-mashally/) or [Twitter](https://twitter.com/ali_mashally)
