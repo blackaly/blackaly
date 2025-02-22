@@ -1,13 +1,8 @@
-### Hi there it's Ali👋 
+### Hi, I am Ali Mashally
 
-<img src="https://komarev.com/ghpvc/?username=blackaly&label=Profile%20views&color=A325E2&labelColor=FFFFFF&style=for-the-badge" alt="blackaly" width=20%/>
-<!--
-**ma7moud3zim/ma7moud3zim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![Codeforces](https://img.shields.io/badge/Codeforces-%235C5C5C.svg?&style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/i_alimuhammad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/i_alimuhammad/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/alimashally)
+[![CTFLearn](https://img.shields.io/badge/CTFLearn-%230059B8.svg?&style=for-the-badge&logo=ctf&logoColor=white)](https://ctflearn.com/user/_ajin)
 
-- 🔭 I’m currently a freelancer.
-- 🌱 I’m currently learning More about Backend, Databases, Algorithms & Data Structures.
-- 🌱 I love so much computer architectures and operating systems subjects.
-- 💬 Ask me about Problem Solving, Web Developing, and computer science stuff.
-- 📫 How to reach me: Send a message on [Linkedin](https://www.linkedin.com/in/ali-mashally/) or [Twitter](https://twitter.com/ali_mashally)
-- 📫 Email: alimuhammadali@proton.me
+
